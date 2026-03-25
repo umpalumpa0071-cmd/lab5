@@ -11,7 +11,8 @@
 3) Подсчёт количества цифр в числе B
 4) Сравнение количества цифр и вывод результата
 ### тестирование
-<img width="336" height="294" alt="image" src="https://github.com/user-attachments/assets/be436bd1-e435-4b82-bfe1-4785e593a8fd" />
+<img width="324" height="120" alt="image" src="https://github.com/user-attachments/assets/39bd7c53-ac3b-4717-82b3-da2abad656e6" />
+
 
 # задание 2
 ## задача 2
@@ -26,7 +27,8 @@
 5) повторяем для каждого элемента списка
 6) выводим сумму
 ### тестирование
-<img width="375" height="67" alt="image" src="https://github.com/user-attachments/assets/f88ce6b0-2d3d-47dc-b746-0ba790078bf9" />
+<img width="357" height="122" alt="image" src="https://github.com/user-attachments/assets/60e4d618-cb36-4b73-ac73-f369acf9f496" />
+
 
 # задание 3
 ## задача 2
@@ -45,4 +47,5 @@
 программа продолжает работу с оставшейся частью первого списка
 6) После обработки всех элементов формируется итоговый список без повторений
 ### тестирование
-<img width="384" height="72" alt="image" src="https://github.com/user-attachments/assets/55074603-9750-4861-9ab1-99ce3e6b33fa" />
+<img width="436" height="81" alt="image" src="https://github.com/user-attachments/assets/1ea56608-873e-49c0-90ab-f0857a6beb0d" />
+
