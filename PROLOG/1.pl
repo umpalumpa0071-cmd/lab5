@@ -1,5 +1,6 @@
 :- set_prolog_flag(encoding, utf8).
-count_num(0, 0) :- !.
+
+count_num(0, 1) :- !.
 count_num(N, C) :-
     N1 is abs(N) // 10,
     count_num(N1, C1),
@@ -22,3 +23,10 @@ more_num(A, B) :-
     count_num(B, CB),
     CA =:= CB,
     write('Количество цифр равно'), nl.
+
+start :-
+    write('Введите первое число: '), 
+    read(A),
+    write('Введите второе число: '), 
+    read(B),
+    more_num(A, B).
